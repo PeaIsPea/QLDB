@@ -1,0 +1,63 @@
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.pdb
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.AssemblyReference.cache
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.SuggestedBindingRedirects.cache
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Properties.Resources.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.GenerateResource.cache
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CoreCompileInputs.cache
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.exe
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.pdb
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.fDangNhap.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fQuanLyChung.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fCaNhan.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fCauThu.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fDoiTuyen.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fLuong.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fSucKhoe.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTaiKhoan.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTaiTro.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fThietBi.resources
+F:\Project NET\04 2023\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTrangChu.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.pdb
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fCaNhan.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fCauThu.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.fDangNhap.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fDoiTuyen.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fLuong.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fQuanLyChung.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fSucKhoe.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTaiKhoan.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTaiTro.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fThietBi.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTrangChu.resources
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.exe
+C:\Users\ADMIN\Desktop\NguyenNgocPhuc (1)\NguyenNgocPhuc\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.pdb
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.pdb
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.AssemblyReference.cache
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.SuggestedBindingRedirects.cache
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Properties.Resources.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fCaNhan.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fCauThu.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.fDangNhap.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fDoiTuyen.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fLuong.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fQuanLyChung.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fSucKhoe.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTaiKhoan.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTaiTro.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fThietBi.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Views.fTrangChu.resources
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.GenerateResource.cache
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CoreCompileInputs.cache
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.exe
+D:\đồ án cá nhân\LTQL\QLDB\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.pdb
